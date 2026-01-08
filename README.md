@@ -108,3 +108,13 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 
 ### Performance Evaluation
 - Tracking accuracy, control smoothness, and system stability were analyzed through simulation results.
+
+## 📊 Key Results
+
+- Accurate tracking of both azimuth and elevation reference angles
+- Minimal steady-state error and smooth transient response
+- Stable system behavior under constrained control inputs
+- Reduced unnecessary motor actuation compared to sensor-based trackers
+- Demonstrated potential energy gain of 30–40% compared to fixed-angle solar panels (based on literature comparison)
+- The results validate the effectiveness of MPC for dual-axis solar tracking applications
+
