@@ -25,4 +25,16 @@ The system operates using **time-based solar position reference signals**, elimi
   <b>Figure 1:</b> System process flow of the dual-axis solar tracking system
 </p>
 
+## 🔧 Hardware Components
+
+Although this project is simulation-based, the system is designed with practical hardware implementation in mind. The main hardware components include:
+
+- **Photovoltaic (PV) Panel** – Energy generation unit mounted on a dual-axis structure  
+- **DC Motors (2 units)** – Independent actuation for azimuth and elevation axes  
+- **Motor Drivers (H-Bridge)** – Interface between controller and motors  
+- **Microcontroller / Embedded Controller** – Intended for real-time control execution  
+- **Mechanical Mounting Structure** – Dual-axis frame designed using SolidWorks  
+- **Power Supply Unit** – Provides regulated power to motors and control electronics  
+
+The mechanical design ensures **stability, smooth rotation, and accurate alignment** of the solar panel.
 
