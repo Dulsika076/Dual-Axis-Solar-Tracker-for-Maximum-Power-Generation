@@ -69,3 +69,23 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 <p align="center">
   <b>Figure 2:</b> Dual Axis Solar Tracking System (SolidWorks)
 </p>
+
+## 🧪 Methodology and Simulation
+
+### System Modeling
+- DC motor dynamics were modeled using electrical and mechanical equations.
+- System parameters such as resistance, inertia, torque constant, and friction were incorporated.
+
+### Reference Generation
+- Time-based solar position reference signals for azimuth and elevation were generated using lookup tables.
+
+### Control Strategy
+- Model Predictive Control (MPC) was implemented to track reference angles.
+- Control constraints were applied to prevent excessive actuator effort.
+
+### Simulation Environment
+- MATLAB/Simulink was used for modeling, control implementation, and validation.
+- Closed-loop simulations were performed to evaluate tracking performance.
+
+### Performance Evaluation
+- Tracking accuracy, control smoothness, and system stability were analyzed through simulation results.
