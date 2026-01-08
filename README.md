@@ -17,7 +17,12 @@ The dual-axis solar tracking system consists of two independently controlled rot
 
 The system operates using **time-based solar position reference signals**, eliminating the dependency on light sensors. Reference angles for both axes are generated based on the apparent movement of the sun and are continuously compared with the actual motor positions in a **closed-loop configuration**. The MPC controller computes optimal control inputs while considering system dynamics and actuator constraints, ensuring **smooth, stable, and accurate tracking**.
 
-![Dual-Axis Solar Tracking System Architecture](images/System Process.jpeg)
+<p align="center">
+  <img src="System_Process.jpeg" width="75%">
+</p>
 
-*Figure 1 : Flow Chart for the Process*
+<p align="center">
+  <b>Figure 1:</b> System process flow of the dual-axis solar tracking system
+</p>
+
 
