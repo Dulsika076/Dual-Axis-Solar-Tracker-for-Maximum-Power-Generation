@@ -86,6 +86,8 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 
 ### Reference Generation
 - Time-based solar position reference signals for azimuth and elevation were generated using lookup tables.
+  You can see predefine data and Simulink model by touching this. 
+  [Click here to view the MATLAB files](DUAL_AXIS_SOLAR_TRACKER-Matlab)
 
 ### Control Strategy
 - Model Predictive Control (MPC) was implemented to track reference angles.
