@@ -118,6 +118,27 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 - Demonstrated potential energy gain of 30–40% compared to fixed-angle solar panels (based on literature comparison)
 - The results validate the effectiveness of MPC for dual-axis solar tracking applications
 
+  The simulation results demonstrate that the proposed MPC-based control strategy is capable of accurately tracking the desired reference angles for both azimuth and elevation axes. The motor responses closely follow the reference trajectories with minimal steady-state error and smooth transient behavior, indicating effective predictive control and stable closed-loop operation.
+
+  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Azimuth.png" width="300" alt="Azimuth Angle"><br>
+      <b>Azimuth reference and motor tracking response</b>
+    </td>
+    <td align="center">
+      <img src="Elavation.png" width="300" alt="Elevation Angle"><br>
+      <b>Elevation (pitch) reference and motor tracking response</b>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <b>Figure 5:</b> Reference Tracking Performance
+</p>
+
+
   ## 🚀 Future Works
 
 - Hardware implementation of the proposed control system
