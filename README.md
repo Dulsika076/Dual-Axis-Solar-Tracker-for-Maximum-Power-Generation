@@ -3,7 +3,7 @@ This project focuses on the design and simulation of an intelligent dual-axis so
 
 [📖 Read this on Linkedin](https://www.linkedin.com/posts/dulsika-mendis-53640431a_dual-axis-solar-tracker-for-maximum-power-activity-7414889005542105088-Zp2N?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFDcrfoBfs-t0YrwyHS3fSSOQ8I4PrWgqeQ)
 
-[Click here to view Technical Report](Group_14_Latex_Document)
+[Click here to view Technical Report](Group_14_Latex_Document.pdf)
 
 
 ## 🌞 Project Overview
