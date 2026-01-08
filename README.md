@@ -5,6 +5,8 @@ This project focuses on the design and simulation of an intelligent dual-axis so
 
 [Click here to view Technical Report](Group_14_Latex_Document.pdf)
 
+[Click here to view Project Report](Group14_Project_Report.pdf)
+
 
 ## 🌞 Project Overview
 
