@@ -38,3 +38,34 @@ Although this project is simulation-based, the system is designed with practical
 
 The mechanical design ensures **stability, smooth rotation, and accurate alignment** of the solar panel.
 
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Top_View.jpeg" width="200"/><br>
+        (a) Top View
+      </td>
+      <td align="center">
+        <img src="Front_View.jpeg" width="200"/><br>
+        (b) Front View
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Back_View.jpeg" width="200"/><br>
+        (c) Back View
+      </td>
+      <td align="center">
+        <img src="Side_View.jpeg" width="200"/><br>
+        (d) Side View
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <b>Figure 2:</b> Dual Axis Solar Tracking System (SolidWorks)
+</p>
