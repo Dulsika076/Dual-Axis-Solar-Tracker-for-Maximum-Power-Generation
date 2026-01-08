@@ -76,6 +76,14 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 - DC motor dynamics were modeled using electrical and mechanical equations.
 - System parameters such as resistance, inertia, torque constant, and friction were incorporated.
 
+  <p align="center">
+  <img src="DC_Motor.png" width="75%">
+</p>
+
+<p align="center">
+  <b>Figure 3:</b> DC Motor Electrical–Mechanical Subsystem
+</p>
+
 ### Reference Generation
 - Time-based solar position reference signals for azimuth and elevation were generated using lookup tables.
 
@@ -86,6 +94,14 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 ### Simulation Environment
 - MATLAB/Simulink was used for modeling, control implementation, and validation.
 - Closed-loop simulations were performed to evaluate tracking performance.
+
+    <p align="center">
+  <img src="Overall_System.png" width="75%">
+</p>
+
+<p align="center">
+  <b>Figure 3:</b> Overall Dual-Axis Simulink Model
+</p>
 
 ### Performance Evaluation
 - Tracking accuracy, control smoothness, and system stability were analyzed through simulation results.
