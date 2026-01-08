@@ -103,7 +103,7 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 </p>
 
 <p align="center">
-  <b>Figure 3:</b> Overall Dual-Axis Simulink Model
+  <b>Figure 4:</b> Overall Dual-Axis Simulink Model
 </p>
 
 ### Performance Evaluation
@@ -117,4 +117,14 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 - Reduced unnecessary motor actuation compared to sensor-based trackers
 - Demonstrated potential energy gain of 30–40% compared to fixed-angle solar panels (based on literature comparison)
 - The results validate the effectiveness of MPC for dual-axis solar tracking applications
+
+  ## 🚀 Future Works
+
+- Hardware implementation of the proposed control system
+- Real-time embedded controller deployment (e.g., Arduino / STM32 / ESP32)
+- Hybrid sensor fusion, combining time-based tracking with irradiance sensors
+- Energy yield comparison with fixed and single-axis systems
+- Weather-adaptive control strategies for dynamic environmental conditions
+- Optimization for large-scale or off-grid solar installations
+
 
