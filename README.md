@@ -148,4 +148,15 @@ The mechanical design ensures **stability, smooth rotation, and accurate alignme
 - Weather-adaptive control strategies for dynamic environmental conditions
 - Optimization for large-scale or off-grid solar installations
 
+  ## Authors and Acknowledgments
+
+**Authors:**  
+- T.A.S.D. Mendis (University of Moratuwa)  
+- M.R.L.S. Maththegama  (University of Moratuwa)  
+-  M.A.A.A. Muhamath (University of Moratuwa)  
+  
+**Acknowledgments:**  
+We would like to express our sincere gratitude to the Department of Electrical Engineering at the University of Moratuwa for providing the resources, guidance, and support required for the successful completion of the module **EE-3204: Engineering System Designs**.
+
+
 
